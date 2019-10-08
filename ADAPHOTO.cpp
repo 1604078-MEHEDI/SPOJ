@@ -1,4 +1,6 @@
 ///http://acm.timus.ru/problem.aspx?space=1&num=1517
+// O(n log(n)^2)
+/// link O(n log(n)): https://ideone.com/ACmWDq
 #include <bits/stdc++.h>
 using namespace std;
 #define INF 1<<30
